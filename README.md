@@ -1,4 +1,4 @@
 # apnacollage_demo
 This is my first Git Repository
-<\n>
+<br>
 Author-Ayush sarkar
